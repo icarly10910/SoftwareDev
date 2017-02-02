@@ -1,3 +1,3 @@
 This might cause a merge conflict
 # SoftwareDev
-SHowdy - Partner
+Howdy - Partner! How's it goin?
